@@ -1,10 +1,5 @@
-import pandas as pd
-from sklearn import svm
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
-
-import pickle
-import numpy as np
-import streamlit as st
+numpy==1.21.2
+streamlit==1.14.0
+scikit-learn==0.24.2
 
 File extension : .csv , .sav
